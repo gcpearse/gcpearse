@@ -1,9 +1,18 @@
-# Hi, I'm Glen
-## Trainee Software Engineer
+# Hi, I'm Glen :wave:
 
-I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
+## About me
+> I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
+>
+> This is a full-time, thirteen week bootcamp for aspiring full-stack developers.
+>
+> The main language taught on the course is **JavaScript**.
 
-
+## Experience
+> Before joining Northcoders, I spent a few months developing basic skills in:
+> - Python
+> - JavaScript
+> - HTML
+> - CSS
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
