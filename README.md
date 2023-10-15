@@ -3,16 +3,15 @@
 ## About me
 > I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
 >
-> This is a full-time, thirteen week bootcamp for aspiring full-stack developers.
->
-> The main language taught on the course is **JavaScript**.
+> This is a full-time, thirteen week bootcamp for aspiring full-stack developers. The main language taught is **JavaScript**.
 
 ## Experience
-> Before joining Northcoders, I spent a few months developing basic skills in areas including:
+> Before joining Northcoders, I spent a few months developing basic skills in:
 > - Python
 > - JavaScript
 > - HTML
 > - CSS
+> - Git
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
