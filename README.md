@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Glen
-- 👀 I'm a student on the October cohort of the Northcoders Software Development Bootcamp
-- 🌱 I'm currently learning JavaScript, HTML and CSS
+# Hi, I'm Glen
+
+I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
