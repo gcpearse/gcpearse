@@ -6,7 +6,7 @@
 > This is a full-time, thirteen week bootcamp for aspiring full-stack developers. The main language taught is **JavaScript**.
 
 ## Experience
-> Before joining Northcoders, I spent a few months developing basic skills in:
+> Before joining Northcoders, I spent a few months developing fundamental skills in:
 > - Python
 > - JavaScript
 > - HTML
