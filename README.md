@@ -8,11 +8,12 @@
 > The main language taught on the course is **JavaScript**.
 
 ## Experience
-> Before joining Northcoders, I spent a few months developing basic skills in:
+> Before joining Northcoders, I spent a few months developing basic skills in areas including:
 > - Python
 > - JavaScript
 > - HTML
 > - CSS
+> - Git
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
