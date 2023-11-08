@@ -8,12 +8,13 @@
 > We're focussing on the back end at the moment, covering Express, MVC architecture, and PostgreSQL.
 
 ## Experience
-> Before joining Northcoders, I spent a few months developing fundamental skills in:
+> Before joining Northcoders, I spent a few months developing fundamental skills in the following areas:
+> 
 > - Python
 > - JavaScript
 > - HTML
 > - CSS
-> - Git
+> - Version control with Git and GitHub
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
