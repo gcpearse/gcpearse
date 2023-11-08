@@ -4,6 +4,8 @@
 > I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
 >
 > This is a full-time, thirteen week bootcamp for aspiring full-stack developers. The main language taught is **JavaScript**.
+>
+> We're focussing on the back end at the moment, covering Express, MVC architecture, and PostgreSQL.
 
 ## Experience
 > Before joining Northcoders, I spent a few months developing fundamental skills in:
