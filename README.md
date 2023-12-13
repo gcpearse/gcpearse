@@ -18,15 +18,11 @@
 > - CSS
 > - SQL (PostgreSQL)
 
-## Frameworks, Libraries (Frontend)
+## Frameworks & Libraries
 > - React.js
 > - Axios
-
-## Frameworks, Libraries (Backend)
 > - Jest
 > - Supertest
-> - Dotenv
-> - Nodemon
 
 ## General Skills
 > - Unit and integration testing
