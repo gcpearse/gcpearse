@@ -5,7 +5,7 @@
 >
 > This is a full-time, thirteen week bootcamp for aspiring full-stack developers.
 >
-> We are now in the full-stack group project phase, designing and building applications in small groups.
+> We are now in the full-stack group project phase, designing and building applications in small teams.
 
 ## Languages
 > - JavaScript
