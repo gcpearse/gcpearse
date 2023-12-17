@@ -5,10 +5,7 @@
 >
 > This is a full-time, thirteen week bootcamp for aspiring full-stack developers.
 >
-> We have just finished the backend block of the course, at the end of which I spent a week building a fully functional API.\
-> This can be found in my public Northcoders News API repository.
->
-> We are now in the second week of the frontend block, building apps with React.js and Vite after exploring DOM manipulation.
+> We are now in the full-stack group project phase, designing and building applications in small groups.
 
 ## Languages
 > - JavaScript
