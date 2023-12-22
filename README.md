@@ -11,6 +11,7 @@
 > - JavaScript
 > - TypeScript
 > - Python
+> - C#
 > - HTML
 > - CSS
 > - SQL (PostgreSQL)
