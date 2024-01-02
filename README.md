@@ -27,7 +27,7 @@
 > - Functional programming
 > - OOP
 > - MVC architecture
-> - Version control (Git, Github)
+> - Version control (Git, GitHub)
 > - Pair programming
 
 <!---
