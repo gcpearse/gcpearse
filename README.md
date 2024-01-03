@@ -18,6 +18,7 @@
 
 ## Frameworks & Libraries
 > - React.js
+> - Redux Toolkit
 > - Axios
 > - Jest
 > - Supertest
