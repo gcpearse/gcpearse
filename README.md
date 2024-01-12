@@ -1,17 +1,17 @@
 # Hi, I'm Glen :wave:
 
 ## About me
-> I'm currently studying with the October cohort of the **Northcoders Software Development Bootcamp**.
+> I'm graduated from the October cohort of the **Northcoders Software Development Bootcamp** on 12th January 2024.
 >
-> This is a full-time, thirteen week bootcamp for aspiring full-stack developers.
->
-> We are now in the final week of the full-stack group project phase, designing and building a full-stack application as a team of six.
+> This was a full-time, thirteen week bootcamp for aspiring full-stack developers consisting of the following blocks:
+> - Fundamentals
+> - Back end
+> - Front end
+> - Group project
 
 ## Languages
 > - JavaScript
 > - TypeScript
-> - Python
-> - C#
 > - HTML
 > - CSS
 > - SQL (PostgreSQL)
