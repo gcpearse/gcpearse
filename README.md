@@ -13,28 +13,6 @@
 >
 > I am now looking for my first professional role in software development, while continuing to work on personal projects.
 
-## Languages
-> - JavaScript
-> - TypeScript
-> - HTML
-> - CSS
-> - SQL (PostgreSQL)
-
-## Frameworks & Libraries
-> - React.js
-> - Redux Toolkit
-> - Axios
-> - Jest
-> - Supertest
-
-## General Skills
-> - Unit and integration testing
-> - Functional programming
-> - OOP
-> - MVC architecture
-> - Version control (Git, GitHub)
-> - Pair programming
-
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
