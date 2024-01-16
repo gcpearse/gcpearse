@@ -9,9 +9,9 @@
 > - Front end
 > - Group project
 >
-> - Before this, I spent a few months exploring the basics of programming through Python, HTML and CSS.
+> Before this, I spent a few months exploring the basics of programming through Python, HTML and CSS.
 >
-> - I am now looking for my first professional role in software development, while continuing to work on personal projects.
+> I am now looking for my first professional role in software development, while continuing to work on personal projects.
 
 ## Languages
 > - JavaScript
