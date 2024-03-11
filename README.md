@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm a Northcoders graduate seeking my first professional role in software development.
+I'm a Northcoders software development graduate seeking my first professional role.
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
