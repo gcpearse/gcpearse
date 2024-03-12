@@ -1,20 +1,20 @@
-# Hi, I'm Glen :wave:
+# Hi, I'm Glen
 
-### About me:
+### ℹ About me:
 
 I'm a Northcoders software development graduate seeking my first professional role.
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
-### Currently working on:
+### 👨🏽‍💻 Currently working on:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
 
-### Currently learning:
+### 🌱 Currently learning:
 
 Python fundamentals
 
-### Tech stack:
+### 💻 Tech stack:
 
 TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS
 
