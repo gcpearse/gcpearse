@@ -1,6 +1,6 @@
 # Hi, I'm Glen
 
-### ℹ About me:
+### 🙎🏽‍♂️ About me:
 
 I'm a Northcoders software development graduate seeking my first professional role.
 
