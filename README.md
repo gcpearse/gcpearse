@@ -10,6 +10,8 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
 
+For this project I have paired up with a former course mate who is building the back end in C#.
+
 ### 🌱 Currently reviewing:
 
 Python fundamentals.
