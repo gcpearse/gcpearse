@@ -12,7 +12,7 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 🌱 Currently reviewing:
 
-Python fundamentals
+Python fundamentals.
 
 ### 💻 Tech stack:
 
