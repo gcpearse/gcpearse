@@ -6,11 +6,11 @@ I'm a Northcoders software development graduate seeking my first professional ro
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
-### 👨🏽‍💻 Currently working on:
+### 👨🏽‍💻 Most recent project:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
 
-For this project I have paired up with a former course mate who is building the back end in C#.
+For this project I have paired up with a former course mate who has written the back end in C#.
 
 ### 🌱 Currently reviewing:
 
