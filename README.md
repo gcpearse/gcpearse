@@ -1,24 +1,25 @@
-# Hi, I'm Glen
+# Hi, I'm Glen 👋🏼
 
 ### 🙎🏽‍♂️ About me:
 
-I'm a Northcoders software development graduate seeking my first professional role.
+Northcoders graduate seeking my first full-time role as a software developer.
 
-My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
+My portfolio site can be accessed [here](https://glen-pearse.netlify.app/).
 
-### 👨🏽‍💻 Most recent project:
+### 👨🏽‍💻 Current project:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
 
 For this project I have paired up with a former course mate who has written the back end in C#.
 
-### 🌱 Currently reviewing:
-
-Python fundamentals.
-
 ### 💻 Tech stack:
 
 TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS
+
+### 🌱 Currently learning:
+
+- RTK Query
+- Python
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
