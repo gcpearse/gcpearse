@@ -16,7 +16,6 @@ TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | H
 
 ### 🌱 Currently learning:
 
-- RTK Query
 - Python
 
 <!---
