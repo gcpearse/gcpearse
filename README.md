@@ -6,7 +6,7 @@ Northcoders graduate seeking my first full-time role as a software developer.
 
 My portfolio site can be accessed [here](https://glen-pearse.netlify.app/).
 
-### 👨🏽‍💻 Current project:
+### 👨🏽‍💻 Latest project:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
 
