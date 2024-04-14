@@ -16,8 +16,8 @@ TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | H
 
 ### 🌱 Currently working on:
 
-- TypeScript LeetCode problems
-- Python fundamentals
+- LeetCode (TypeScript)
+- CS50's Introduction to Programming with Python
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
