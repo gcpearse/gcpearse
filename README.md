@@ -12,7 +12,7 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 💻 Tech stack:
 
-TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS
+TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS | Python
 
 ### 🌱 Currently working on:
 
