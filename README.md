@@ -12,12 +12,13 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 💻 Tech stack:
 
-TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS | Python
+TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS
 
 ### 🌱 Currently working on:
 
 - LeetCode (TypeScript)
 - Java fundamentals
+- Python fundamentals
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
