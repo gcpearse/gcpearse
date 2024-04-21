@@ -2,7 +2,7 @@
 
 ### 🙎🏽‍♂️ About me:
 
-Northcoders graduate seeking my first full-time role as a software developer.
+Junior software developer seeking my first full-time role in the sector.
 
 My portfolio site can be accessed [here](https://glen-pearse.netlify.app/).
 
