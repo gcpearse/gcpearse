@@ -16,12 +16,12 @@ TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | H
 
 ### 🧱 Fundamentals covered:
 
+- C#
 - Java
 - Python
 
 ### 🌱 Currently working on:
 
-- C# fundamentals
 - LeetCode (TypeScript)
 
 <!---
