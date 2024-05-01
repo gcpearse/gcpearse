@@ -22,6 +22,7 @@ TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | H
 
 ### 🌱 Currently working on:
 
+- LeetCode (C#)
 - LeetCode (TypeScript)
 
 <!---
