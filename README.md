@@ -1,8 +1,6 @@
 # Hi, I'm Glen 👋🏼
 
-### 🙎🏽‍♂️ About me:
-
-Junior software developer seeking my first full-time role in the sector.
+### 🙎🏽‍♂️ Portfolio:
 
 My portfolio site can be accessed [here](https://glen-pearse.netlify.app/).
 
