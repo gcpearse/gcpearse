@@ -2,7 +2,7 @@
 
 ### 🙎🏽‍♂️ Portfolio:
 
-My portfolio site can be accessed [here](https://glen-pearse.netlify.app/).
+My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ### 👨🏽‍💻 Latest project:
 
