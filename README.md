@@ -10,12 +10,12 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 💻 Tech stack:
 
-TypeScript | JavaScript | Node.js | React | Redux Toolkit | SQL (PostgreSQL) | HTML | CSS
-
-### 🧱 Fundamentals covered:
-
-- C#
-- Python
+|Languages|Front End|Back End|Testing|
+|---|---|---|---|
+|TypeScript|React|Node.js|Jest|
+|JavaScript|Redux Toolkit|Express|Supertest|
+|C#|HTML|SQL (PostgreSQL)|Pytest|
+|Python|CSS|
 
 ### 🌱 Currently working on:
 
