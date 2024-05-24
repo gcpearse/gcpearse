@@ -21,6 +21,7 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 - LeetCode (C#)
 - LeetCode (TypeScript)
+- LeetCode (SQL)
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
