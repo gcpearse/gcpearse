@@ -19,7 +19,7 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 🌱 Currently working on:
 
-- Planning and wireframing for upcoming full-stack web app
+- Initial setup for planned Django application
 - LeetCode: C#, TypeScript, SQL
 
 <!---
