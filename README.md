@@ -14,8 +14,8 @@ A construction management tool written in TypeScript with React and Redux Toolki
 |---|---|---|---|
 |TypeScript|React|Node.js|Jest|
 |JavaScript|Redux Toolkit|Express|Supertest|
-|C#|HTML|SQL (PostgreSQL)|Pytest|
-|Python|CSS||xUnit|
+|C#|HTML|SQL (PostgreSQL)|xUnit|
+|Python|CSS||Pytest|
 
 ### 🌱 Currently working on:
 
