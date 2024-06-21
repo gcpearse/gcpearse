@@ -20,7 +20,7 @@ A construction management tool written in TypeScript with React and Redux Toolki
 |TypeScript|React|Node.js|Jest|
 |JavaScript|Redux Toolkit|Express|Supertest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
-|Python|CSS||pytest|
+|Python|CSS|.NET|pytest|
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
