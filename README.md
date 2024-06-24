@@ -10,7 +10,6 @@ A construction management tool written in TypeScript with React and Redux Toolki
 
 ### 🌱 Currently working on:
 
-- ASP.NET Core fundamentals
 - LeetCode: TypeScript, C#, Python, SQL
 
 ### 💻 Tech stack:
