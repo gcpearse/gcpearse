@@ -6,7 +6,7 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ### 🌱 Current project:
 
-A plot tracking app for gardeners, allotment owners, and other subsistence farmers.
+An app for gardeners, allotment owners, and other subsistence farmers to keep track of crops and jobs on their plots.
 
 ### 👨🏽‍💻 Latest project:
 
