@@ -4,13 +4,13 @@
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
+### 🌱 Current project:
+
+A plot tracking app for gardeners, allotment owners, and other subsistence farmers.
+
 ### 👨🏽‍💻 Latest project:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
-
-### 🌱 Currently working on:
-
-- LeetCode: TypeScript, C#, Python, SQL
 
 ### 💻 Tech stack:
 
