@@ -8,6 +8,8 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 The back end of a full-stack application for gardeners, allotment owners, and other subsistence farmers to keep track of crops and jobs on their plots.
 
+Take a look at the repository [here](https://github.com/gcpearse/agriculture-back-end).
+
 ### 👨🏽‍💻 Latest project:
 
 A construction management tool written in TypeScript with React and Redux Toolkit.
