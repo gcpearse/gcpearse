@@ -12,7 +12,7 @@ Take a look at the repository [here](https://github.com/gcpearse/agriculture-bac
 
 ### 👨🏽‍💻 Latest project:
 
-A construction management tool written in TypeScript with React and Redux Toolkit.
+The front end for a construction management tool written in TypeScript with React and Redux Toolkit.
 
 ### 💻 Tech stack:
 
