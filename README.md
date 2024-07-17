@@ -6,7 +6,7 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ### 🌱 Currently working on:
 
-The back end of a full-stack application for gardeners, allotment owners, and other subsistence farmers to keep track of crops and jobs on their plots.
+The back end (Express REST API) of a full-stack application for gardeners, allotment owners, and other subsistence farmers to keep track of crops and jobs on their plots.
 
 Take a look at the repository [here](https://github.com/gcpearse/agriculture-back-end).
 
