@@ -21,7 +21,7 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 |Languages|Front End|Back End|Testing|
 |---|---|---|---|
 |TypeScript|React|Node.js|Jest|
-|JavaScript|Redux Toolkit|Express|Supertest|
+|JavaScript|Redux Toolkit|Express|SuperTest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
 |Python|CSS|.NET|pytest|
 
