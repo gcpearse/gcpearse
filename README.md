@@ -4,7 +4,7 @@
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
-### 🌱 Currently working on:
+### 🌱 Current project:
 
 The back end (Express REST API) of a planned full-stack application for gardeners, allotment owners, and subsistence farmers to keep track of crops, issues, and jobs on their plots.
 
@@ -24,6 +24,10 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 |JavaScript|Redux Toolkit|Express|SuperTest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
 |Python|CSS|.NET|pytest|
+
+### 📚 Learning:
+
+The **Go** programming language.
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
