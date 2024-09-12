@@ -27,7 +27,7 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 
 ### 📚 Learning:
 
-The **Go** programming language.
+The fundamentals of the **Go** programming language.
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
