@@ -24,7 +24,6 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 |JavaScript|Redux Toolkit|Express|SuperTest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
 |Python|CSS|.NET|pytest|
-|Go||||
 
 ### 📚 Learning:
 
