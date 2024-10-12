@@ -12,7 +12,7 @@ Take a look at the repository [here](https://github.com/gcpearse/agriculture-bac
 
 ---
 
-A bespoke web app for an independent florist. We are currently planning and designing the structure of the application.
+A bespoke website for an independent florist. We are currently defining requirements and outlining a plan for the site.
 
 ### 👨🏽‍💻 Latest project:
 
