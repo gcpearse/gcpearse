@@ -6,15 +6,13 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ### 🌱 Current projects:
 
-#### #1
-
 The back end (Express REST API) of a planned full-stack application for gardeners, allotment owners, and subsistence farmers to keep track of crops, issues, and jobs on their plots.
 
 Take a look at the repository [here](https://github.com/gcpearse/agriculture-back-end).
 
-#### #2
+---
 
-Bespoke web app for an independent florist. We are currently planning and designing the structure of the application.
+A bespoke web app for an independent florist. We are currently planning and designing the structure of the application.
 
 ### 👨🏽‍💻 Latest project:
 
