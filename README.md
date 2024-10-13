@@ -20,6 +20,10 @@ The front end for a construction management tool written in TypeScript with Reac
 
 Take a look at the repository [here](https://github.com/gcpearse/Construction-FE) and the live application [here](http://4.234.160.181:9090/).
 
+### 📚 Learning:
+
+The fundamentals of the **Go** programming language.
+
 ### 💻 Tech stack:
 
 |Languages|Front End|Back End|Testing|
@@ -28,10 +32,6 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 |JavaScript|Redux Toolkit|Express|SuperTest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
 |Python|CSS|.NET|pytest|
-
-### 📚 Learning:
-
-The fundamentals of the **Go** programming language.
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
