@@ -34,16 +34,6 @@ The fundamentals of the **Go** programming language.
 
 ---
 
-### 💻 Tech stack:
-
-|Languages|Front End|Back End|Testing|
-|---|---|---|---|
-|TypeScript|React|Node.js|Jest|
-|JavaScript|Redux Toolkit|Express|SuperTest|
-|C#|HTML|SQL (PostgreSQL)|xUnit|
-|Python|CSS|.NET|pytest|
-|Go||||
-
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
