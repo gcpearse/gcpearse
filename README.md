@@ -42,6 +42,7 @@ The fundamentals of the **Go** programming language.
 |JavaScript|Redux Toolkit|Express|SuperTest|
 |C#|HTML|SQL (PostgreSQL)|xUnit|
 |Python|CSS|.NET|pytest|
+|Go||||
 
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
