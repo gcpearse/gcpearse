@@ -24,7 +24,7 @@ Take a look at the repository [here](https://github.com/gcpearse/Construction-FE
 
 ### 📚 Learning:
 
-The fundamentals of the **Go** programming language.
+The **Go** programming language.
 
 ---
 
