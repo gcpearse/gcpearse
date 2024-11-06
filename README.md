@@ -18,7 +18,7 @@ Take a look at the repository [here](https://github.com/gcpearse/agriculture-bac
 
 The front end for a construction management tool written in TypeScript with React and Redux Toolkit.
 
-Take a look at the repository [here](https://github.com/gcpearse/Construction-FE) and the live application [here](http://4.234.160.181:9090/).
+Take a look at the repository [here](https://github.com/gcpearse/Construction-FE).
 
 ---
 
