@@ -6,6 +6,12 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ---
 
+### 📚 Learning:
+
+The **Go** programming language.
+
+---
+
 ### 🌱 Current project:
 
 The back end (Express REST API) of a planned full-stack application for gardeners, allotment owners, and subsistence farmers to keep track of crops, issues, and jobs on their plots.
@@ -19,12 +25,6 @@ Take a look at the repository [here](https://github.com/gcpearse/agriculture-bac
 The front end for a construction management tool written in TypeScript with React and Redux Toolkit.
 
 Take a look at the repository [here](https://github.com/gcpearse/Construction-FE).
-
----
-
-### 📚 Learning:
-
-The **Go** programming language.
 
 ---
 
