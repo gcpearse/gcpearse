@@ -10,6 +10,8 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 The **Go** programming language.
 
+<img src="https://pkg.go.dev/static/shared/gopher/pilot-bust-1431x901.svg" height="100">
+
 ---
 
 ### 🌱 Current project:
