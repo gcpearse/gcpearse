@@ -12,7 +12,10 @@ The **Go** programming language.
 
 <img src="https://pkg.go.dev/static/shared/gopher/pilot-bust-1431x901.svg" height="100">
 
-[This](https://github.com/gcpearse/go-noughts-and-crosses) is the repository for my command line noughts and crosses (tic-tac-toe) game written in Go.
+Go projects:
+
+* [LeetCode](https://github.com/gcpearse/leetcode-go).
+* [Noughts and crosses](https://github.com/gcpearse/go-noughts-and-crosses).
 
 ---
 
