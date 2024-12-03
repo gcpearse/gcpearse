@@ -15,7 +15,7 @@ The **Go** programming language.
 Go projects:
 
 * [LeetCode](https://github.com/gcpearse/leetcode-go)
-* [Noughts and crosses](https://github.com/gcpearse/go-noughts-and-crosses)
+* [Noughts and Crosses](https://github.com/gcpearse/go-noughts-and-crosses)
 
 ---
 
