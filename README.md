@@ -8,9 +8,7 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 ### 📚 Learning:
 
-The **Go** programming language.
-
-<img src="https://pkg.go.dev/static/shared/gopher/pilot-bust-1431x901.svg" height="100">
+**PHP** and **Go**.
 
 Go projects:
 
