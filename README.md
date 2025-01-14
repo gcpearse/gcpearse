@@ -10,11 +10,6 @@ My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
 
 **PHP** and **Go**.
 
-Go projects:
-
-* [LeetCode](https://github.com/gcpearse/leetcode-go)
-* [Noughts and Crosses](https://github.com/gcpearse/go-noughts-and-crosses)
-
 ---
 
 ### 🌱 Current project:
