@@ -20,14 +20,6 @@ Take a look at the repository [here](https://github.com/gcpearse/agriculture-bac
 
 ---
 
-### 👨🏽‍💻 Latest project:
-
-The front end for a construction management tool written in TypeScript with React and Redux Toolkit.
-
-Take a look at the repository [here](https://github.com/gcpearse/Construction-FE).
-
----
-
 <!---
 gcpearse/gcpearse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
