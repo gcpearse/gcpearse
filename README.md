@@ -1,4 +1,4 @@
-# Hi, I'm Glen 👋🏼
+# Hi, I'm Glen. Software Engineer at StuRents 👋🏼
 
 ### 🙎🏽‍♂️ Portfolio:
 
