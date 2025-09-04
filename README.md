@@ -1,16 +1,10 @@
 # Hi, I'm Glen 👋🏼
 
-I'm a software engineer at **StuRents**.
+I'm a software engineer at **StuRents** where I mainly work with PHP, React, and MySQL.
 
 ### 🙎🏽‍♂️ Portfolio:
 
 My portfolio site can be visited [here](https://glen-pearse.netlify.app/).
-
----
-
-### 📚 Learning:
-
-**PHP** and **Go**.
 
 ---
 
