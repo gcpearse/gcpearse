@@ -1,6 +1,6 @@
 # Hi, I'm Glen 👋🏼
 
-I'm a software engineer at **StuRents** where I mainly work with PHP, React, and MySQL, while also dabbling in Rust 🦀
+I'm a software engineer at **StuRents** where I mainly work with PHP, TypeScript, React, and MySQL, while also dabbling in Rust 🦀
 
 ---
 
